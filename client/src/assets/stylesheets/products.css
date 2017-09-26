@@ -1,0 +1,19 @@
+.product_wrapper {
+	color: #fff;
+	text-align: left;
+	margin: 50px 0;
+}
+
+.product_wrapper .block {
+	background: #fff;
+	margin-bottom: 40px;
+	box-shadow: 15px 15px 20px #084a80;
+}
+
+.product_wrapper .block:hover {
+	background: #fff;
+}
+
+.product_wrapper .block img {
+	height: 250px;
+}

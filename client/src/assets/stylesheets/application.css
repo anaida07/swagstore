@@ -1,0 +1,41 @@
+body {
+	background: url('../images/bg.png') #065da3 repeat;
+	margin: 0;
+	padding: 0;
+}
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+header {
+	color: #fff;
+	margin: 20px 0;
+	text-align: left;
+}
+
+header ul {
+	padding: 0;
+	margin: 0;
+}
+
+header ul li {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	float: right;
+	margin: 0 30px;
+}
+
+header ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+header ul li a:hover {
+	color: #5694c5;
+}
