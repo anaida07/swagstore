@@ -17,3 +17,8 @@
 .product_wrapper .block img {
 	height: 250px;
 }
+
+.action_buttons a {
+	display: inline-block;
+	color: #fff;
+}
